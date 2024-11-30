@@ -1,0 +1,6 @@
+@CoordinatorsAppAPI_HostAddress = http://localhost:5215
+
+GET {{CoordinatorsAppAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
